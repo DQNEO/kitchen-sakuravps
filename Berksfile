@@ -6,6 +6,7 @@ cookbook 'yumfastestmirror',  github: 'DQNEO/cookbook-yumfastestmirror'
 cookbook 'timezone',          github: 'DQNEO/cookbook-timezone'
 cookbook 'disableservices',   github: 'DQNEO/cookbook-disableservices'
 cookbook 'hello',             github: 'DQNEO/cookbook-hello'
+cookbook 'null',              github: 'DQNEO/cookbook-null'
 
 
 # ?
