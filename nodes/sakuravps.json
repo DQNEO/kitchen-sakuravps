@@ -1,21 +1,7 @@
 {
   "run_list" : [
-    "yum-epel",
-    "disableservices",
-    /*
-    "mainuser",
-    "sshd",
-    */
-    null
+    "hello",
+    "null"
   ],
-  "disableservices" : {
-    "auditd",
-    "blk-availability",
-    "lvm2-monitor",
-    "messagebus"
-  }
-  "sshd" : {
-    "port" : 1977
-  }
   "null" : null
 }
