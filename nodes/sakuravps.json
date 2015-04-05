@@ -1,0 +1,10 @@
+{
+  "run_list" : [
+    "mainuser",
+    "sshd",
+    "disableservices",
+    null
+  ],
+
+  "null" : null
+}
