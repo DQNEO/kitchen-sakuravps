@@ -1,6 +1,7 @@
 {
   "run_list" : [
     "hello",
+    "yum-epel",
     "disableservices",
     "null"
   ],
