@@ -1,8 +1,11 @@
 {
   "run_list" : [
+    "yum-epel",
+    "disableservices",
+    /*
     "mainuser",
     "sshd",
-    "disableservices",
+    */
     null
   ],
   "disableservices" : {
