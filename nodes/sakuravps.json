@@ -5,6 +5,12 @@
     "disableservices",
     null
   ],
+  "disableservices" : {
+    "auditd",
+    "blk-availability",
+    "lvm2-monitor",
+    "messagebus"
+  }
   "sshd" : {
     "port" : 1977
   }
