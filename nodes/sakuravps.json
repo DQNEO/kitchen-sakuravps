@@ -1,7 +1,14 @@
 {
   "run_list" : [
     "hello",
+    "disableservices",
     "null"
   ],
+  "disableservices" : [
+    "blk-availability",
+    "lvm2-monitor",
+    "messagebus"
+  ],
+
   "null" : null
 }
