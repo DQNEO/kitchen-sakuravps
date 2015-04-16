@@ -1,8 +1,10 @@
 {
   "run_list": [
+    "hostname",
     "hello",
     "null"
   ],
 
+  "set_fqdn" : "dqneo.jp",
   "null":null
 }

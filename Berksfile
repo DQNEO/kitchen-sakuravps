@@ -19,3 +19,4 @@ cookbook 'dqneo',             github: 'DQNEO/cookbook-dqneo'
 #cookbook 'remi', '~> 1.0.0',  github: 'DQNEO/cookbook-remi'
 #cookbook 'php56', '~> 0.0.2' ,github: 'DQNEO/cookbook-php56'
 
+cookbook 'hostname'
